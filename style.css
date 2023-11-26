@@ -1,0 +1,25 @@
+body {
+  background-color: #797a7c; /* Gris claro */
+  height: 100%;
+  margin: 0;
+}
+
+.container {
+  height: 80vh;
+  display: flex;
+  align-items: stretch;
+}
+
+.card {
+  width: 100%;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.resultados-table {
+  margin-top: 20px;
+}
